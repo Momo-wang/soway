@@ -1,0 +1,193 @@
+.navbar-default .navbar-brand{
+	font-size: 30px;
+	font-weight: bold;
+	color: #45d3b3;
+	line-height: 35px;
+}
+
+.navbar-default .navbar-nav>li>a{
+	font-size: 16px;
+	font-weight: bold;
+	color: #666694;
+	line-height:35px ;
+	height: 70px;
+}
+.navbar-default .navbar-toggle:hover{
+	background: #45D3B3;
+}
+.navbar-default .navbar{
+	margin-bottom: 0px;
+}
+#home{
+	width: 100%;
+	height: 100%;
+	background-image: url(../img/home-bg.jpg);
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+}
+#home h1{
+	font-size: 30px;
+	margin: 20px auto;
+}
+#home p{
+    line-height: 30px;
+    font-weight: 600;
+}
+#home img{
+	margin-top: 30px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.mengban{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+}
+#bd2 {
+	width: 100%;
+	height: 100%;
+}
+#bd2 h3 {
+    text-align: center;
+}
+#bd2 p{
+	text-align: center;
+	margin-bottom: 100px;
+}
+#bd2 img {
+	text-align: center;
+	margin:100px auto 0px auto;
+}
+#bd3{
+	width: 100%;
+	height: 100%;
+	background:#d3d3d3 ;
+}
+#bd3 img {
+	margin: 80px auto;
+}
+#bd3 h3 {
+    margin-top: 95px;
+}
+#bd4{
+	width: 100%;
+	height: 100%;
+}
+#bd4 img {
+	margin: 80px auto;
+}
+#bd4 h3 {
+    margin-top: 95px;
+    margin-left:50px ;
+}
+#bd4 p{
+	margin-left:50px ;
+}
+#bd5 {
+	width: 100%;
+	height: 100%;
+	background:#d3d3d3 ;	
+}
+#bd5 h2{
+	text-align: center;
+	margin: 60px auto;
+}
+#bd5 .box {
+	width: 260px;
+	height: 240px;
+	cursor: pointer;
+	margin: 20px 15px;
+	background: white;
+}
+#bd5 img {
+	width: 260px;
+	height: 150px;
+}
+#bd5 .p{
+	width: 138px;
+	height: 37px;
+	margin: 20px auto;
+	text-align: center;
+	line-height:40px;
+	color: #40d2b1;
+	border: 1px solid #40d2b1;
+}
+#bd5 .p:hover{
+	background:lavender;
+}
+#bd5 .row {
+	margin-bottom: 80px;
+}
+#bd6{
+	width: 100%;
+	height: 100%;
+}
+#bd6 img {
+	margin: 80px auto;
+}
+#bd6 h3 {
+    margin-top: 95px;
+}
+#bd6 .btn {
+	width: 138px;
+	height: 34px;
+	margin: 20px 5px;
+	background:#41d2b1 ;
+}
+#bd7{
+	width: 100%;
+	height: 100%;
+	color: white;
+	background-image:url(../img/contact-bg.png);
+	background-size: cover;
+}
+#bd7 .nei{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+}
+#bd7 h3 {
+    margin-top: 95px;
+}
+#bd7 .b1{
+	width: 250px;
+	height:50px;
+	font-size: 18px;
+	margin: 90px 12px 10px 0px;
+}
+#bd7 .b2{
+	width: 525px;
+	height:50px;
+	font-size: 18px;
+	margin: 10px 0px 10px 0px;
+}
+#bd7 .b3{
+	width: 525px;
+	height:90px;
+	font-size: 18px;
+	margin: 10px 0px 10px 0px;
+}
+#bd7 .b4{
+	width: 340px;
+	height:50px;
+	font-size: 18px;
+	background: #3fd1b0;
+	margin: 10px 0px 111px 0px;
+	border: 1px solid #3fd1b0;
+}
+#bd7 p{
+	margin: 0px auto 35px auto;	
+    font-size: 18px;
+}
+.foot{
+	width: 100%;
+	height:100%;
+	background: black;
+	color: white;
+	text-align: center;
+}
+.foot p{
+    margin: 0px auto 35px auto;	
+    font-size: 18px;
+}
